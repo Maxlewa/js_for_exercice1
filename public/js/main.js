@@ -7,10 +7,10 @@ for (let index = 0; index < 20; index++) {
 for (let i = 0; i < 21; i++) {
     switch (i%2 ==0) {
         case (true):
-            console.log(`${i} est paire`)
+            console.log(`${i} est pair`)
             break
         case (false):
-            console.log(`${i} est impaire`)
+            console.log(`${i} est impair`)
             break
     }
 }
